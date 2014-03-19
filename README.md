@@ -15,3 +15,4 @@ In other words, its a good starting point for working on simple web projects.
 + Launch terminal in the new directory and install the dependancies: `$ npm install`.
 + Run grunt: `$ grunt`.
 + Edit the `/source` directory to your hearts content and view the output at `http://0.0.0.0:4000`.
++ As this is a starting point for a new project, you may want to remove the remote connection to this cloned respository: `$ git remote rm origin`.
